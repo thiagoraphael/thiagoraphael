@@ -14,6 +14,3 @@ Olá, eu sou o Thiago, estudante no curso de Ciências da Computação na UNIPAC
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thiagoraphael&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-[Snake animation](https://github.com/thiagoraphael/thiagoraphael/blob/output/github-contribution-grid-snake.svg)
