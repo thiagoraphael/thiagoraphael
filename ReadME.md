@@ -15,16 +15,6 @@ Meu nome é Thiago Raphael Justiniano Silva, sou Desenvolvedor Front-End e estud
 🎲 Curiosidade: Antes de me apaixonar por código, trabalhei como designer — hoje tento equilibrar arte e programação sem enlouquecer. 😄
 </p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagoraphael/thiagoraphael/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagoraphael/thiagoraphael/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thiagoraphael/thiagoraphael/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2 align="left">Tecnologias e linguagens</h2>
 
 ###
