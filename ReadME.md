@@ -1,62 +1,37 @@
-<h1 align="left">Olá 👋 Seja bem-vindo(a)!</h1>
+# Olá, eu sou Thiago Raphael 🇧🇷
 
-<p align="left">
-Meu nome é Thiago Raphael Justiniano Silva, sou Desenvolvedor Front-End e estudante de Ciência da Computação em Barbacena, Minas Gerais.
-</p>
+Desenvolvedor Front-End e estudante de Ciência da Computação apaixonado por construir coisas com React e criar experiências digitais significativas. Combino meu background em design com código para criar interfaces que são bonitas e funcionais.
 
----
+## 💻 Trabalhando com:
 
-<h2 align="left">🧠 Sobre mim</h2>
+React, JavaScript, HTML, CSS, Node.js, Python, Git, Figma, VS Code
 
-<p align="left">
-✨ Creating bugs since 2021, quando comecei minha graduação em Ciência da Computação na UNIPAC.<br><br>
-📚 Atualmente estou aprendendo mais sobre desenvolvimento Front-End com React e aprofundando meus conhecimentos em Java e estrutura de dados.<br><br>
-🎯 Objetivo: Atuar profissionalmente como desenvolvedor, aplicando meus conhecimentos em projetos que unam tecnologia, criatividade e impacto real.<br><br>
-🎲 Curiosidade: Antes de me apaixonar por código, trabalhei como designer — hoje tento equilibrar arte e programação sem enlouquecer. 😄
-</p>
+## 📚 Estudando atualmente:
 
-<h2 align="left">Tecnologias e linguagens</h2>
+TypeScript, C#, GDScript
 
-###
+## 🚀 Projetos em Destaque:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+### [QueroUmPet](https://github.com/thiagoraphael/QueroUmPet)
+Aplicativo mobile desenvolvido com React Native + Expo, focado em adoção de pets, com gestão financeira, gerenciamento de animais e experiências personalizadas para ONGs.
 
-###
+### [Bichinho Virtual](https://github.com/thiagoraphael/bichinho-virtual)
+Um pet virtual no estilo Tamagotchi onde você pode interagir alimentando, brincando, passeando, trocando emojis e dando nome ao seu bichinho.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
+## 📊 Estatísticas do GitHub:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thiagoraphael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagoraphael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+## 🔍 Um pouco sobre minha jornada:
 
-<h3 align="left">Pode me encontrar aqui também</h3>
+Comecei minha jornada com HTML, CSS e JavaScript, explorando os fundamentos da web. Com o tempo, me especializei em desenvolvimento front-end e hoje trabalho principalmente com React. Atualmente estou expandindo meu repertório com TypeScript, C# e GDScript—sempre em busca do próximo desafio.
 
-###
+**Atualmente em:** Barbacena, Minas Gerais 🇧🇷
+
+## 📫 Conecte-se comigo:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thiagoraphaeljustiniano/" target="_blank">
@@ -69,5 +44,3 @@ Meu nome é Thiago Raphael Justiniano Silva, sou Desenvolvedor Front-End e estud
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
 </div>
-
-###
